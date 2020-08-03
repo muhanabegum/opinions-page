@@ -36,10 +36,10 @@ var progress_length = document.getElementById("progress_bar").value;
 
 function increase_progress() {
 
-  if (progress_length < 90) {
-    progress_length += 10;
+  if (progress_length < 99) {
+    progress_length += 1
     document.getElementById("progress_bar").value = progress_length;
-  } else if ((progress_length > 90 && progress_length < 100)) {
+  } else if ((progress_length > 99 && progress_length < 100)) {
     progress_length == 100;
     document.getElementById("progress_bar").value = progress_length;
   }
