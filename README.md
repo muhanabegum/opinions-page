@@ -6,3 +6,6 @@ This project was mainly for me to practise and experiment with JavaScript and AP
 
 Below is an image of the entire web layout 
 ![image1](https://github.com/muhanabegum/opinions-page/blob/master/image1.PNG)
+
+
+(Note that the image used on the webpage are not mine, credit belongs to owner(s). )
